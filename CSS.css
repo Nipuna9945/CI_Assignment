@@ -1,0 +1,76 @@
+#header
+{
+    margin:0;
+    padding:0;
+    background-image: url(mclaren-senna-novitec-2020-5k-8k-7000x4231-244.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h2
+{
+    color: #ffffff;
+}
+
+.center-form {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+.row
+{
+      background-color: rgba(0, 0, 0, 0.2); /* semi-transparent background color */
+      border-radius: 20px; /* rounded corners */
+      width: 500px; /* set width */
+      height: 1000px;
+      padding-top: 100px; /* padding top */
+      padding-bottom: 50px; /* padding bottom */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* blurred shadow effect */
+      margin: 0 auto; /* center horizontally */
+      backdrop-filter: blur(10px); /* apply blur effect */
+}
+
+.input
+{
+    color: #ffffff;
+}
+
+.form-control
+{
+    width: 400px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.a
+{
+    color: #ffc107;
+}
+
+.b
+{
+    color: #198754;
+}
+
+a #a
+{
+    text-decoration: none;
+    color: #ffc107;
+}
+
+a #b
+{
+    text-decoration: none;
+    color: #198754;
+}
+
+a:hover
+{
+    color: #ffffff;
+}
